@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.4be7d347.chunk.css",
+    "main.js": "./static/js/main.284032a2.chunk.js",
+    "main.js.map": "./static/js/main.284032a2.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.08baa623.js",
+    "runtime-main.js.map": "./static/js/runtime-main.08baa623.js.map",
+    "static/css/2.10e48097.chunk.css": "./static/css/2.10e48097.chunk.css",
+    "static/js/2.6123894b.chunk.js": "./static/js/2.6123894b.chunk.js",
+    "static/js/2.6123894b.chunk.js.map": "./static/js/2.6123894b.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.e12990d9aead758f0b80c9b8a9600c0c.js": "./precache-manifest.e12990d9aead758f0b80c9b8a9600c0c.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.10e48097.chunk.css.map": "./static/css/2.10e48097.chunk.css.map",
+    "static/css/main.4be7d347.chunk.css.map": "./static/css/main.4be7d347.chunk.css.map",
+    "static/js/2.6123894b.chunk.js.LICENSE.txt": "./static/js/2.6123894b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "./static/media/Air Balloon - TTF.88e89622.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08baa623.js",
+    "static/css/2.10e48097.chunk.css",
+    "static/js/2.6123894b.chunk.js",
+    "static/css/main.4be7d347.chunk.css",
+    "static/js/main.284032a2.chunk.js"
+  ]
+}
